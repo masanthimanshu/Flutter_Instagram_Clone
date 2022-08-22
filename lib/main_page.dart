@@ -72,7 +72,7 @@ class _HomePageState extends State<HomePage> {
             label: "Reels",
           ),
           BottomNavigationBarItem(
-            icon: Icon(Icons.heart_broken),
+            icon: Icon(Icons.favorite),
             label: "Notification",
           ),
           BottomNavigationBarItem(
